@@ -1,5 +1,5 @@
 # groth16
-Coding groth16 from scratch to deepen my understanding of zkps after having read [Rareskill's ZKP book](https://www.rareskills.io/zk-book).
+Coding groth16 from scratch to deepen my understanding of zkps after having read [Rareskills's ZKP book](https://www.rareskills.io/zk-book).
 
 ---
 Heres what I've read so far from the book:
